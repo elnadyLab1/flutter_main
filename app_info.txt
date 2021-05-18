@@ -27,4 +27,27 @@ firbase :
         Package name
             com.example.flutter_main
 
-firebase_storage
+flutter pub add 
+    firebase_storage
+    google_sign_in
+    redis_dart 0.1.0+4
+    stash_objectbox 1.0.0
+    hasura_connect 3.0.2
+    hasura_cache_interceptor 1.0.0-dev.5
+    flutter_login: ^2.0.0-nullsafety.0
+
+OAuth 2.0 Client IDs
+    Andriod :
+        481439922186-2irntlc6bqt9qf9ic5jcgr7v73e7dlnr.apps.googleusercontent.com
+    IOS :
+        481439922186-e4mf8ah724hjjm3rs2vq132knkb946e9.apps.googleusercontent.com
+    Web :
+        481439922186-e9o5eps82m9brgp1buf08ktqif0od4js.apps.googleusercontent.com
+
+Google Maps API Key:
+    Anriod :
+        AIzaSyDWzUtev9zjzdm4NwTNJq6JwVH-MVLdUgE
+    IOS :
+        AIzaSyCpLhdhPTZTVNC-SzcNHgetDQSPoKJTX-A
+    Web :
+        AIzaSyCT7okJaLdx7kCrS8RijZUPKByLgps525Y
